@@ -1,0 +1,14 @@
+@import "variables";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: rgb(177, 166, 165);
+}
+
+h1 {
+  color: $red-color;
+}
